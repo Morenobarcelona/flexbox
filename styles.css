@@ -1,8 +1,8 @@
 * {
   margin: 0;
   padding: 0;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
+  /*-webkit-box-sizing: border-box;
+  /*box-sizing: border-box; */
 }
 
 .contenedor {
@@ -15,7 +15,7 @@
   background: #00b285;
   width: 200px;
   height: 100px;
-  margin: 3opx;
+  margin: 30px;
   padding: 20px;
   font-size: 40px;
   text-align: center;
